@@ -1,4 +1,4 @@
-![logo](https://github.com/ansulpal1/ansulpal1/blob/main/github%20banner.png)
+![logo](https://github.com/ansulpal1/ansulpal1/blob/main/github%20banner%202.png)
 <h1 align="center">Hi 👋, I'm Ansul Pal</h1>
 <h3 align="center">A passionate Full Stack Mern developer</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"/>
