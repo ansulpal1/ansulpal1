@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Ecomerse project**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **React ,Node ,MongoDB**
 
